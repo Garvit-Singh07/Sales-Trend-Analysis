@@ -121,4 +121,7 @@ Visual: Line Chart with Forecast (Date vs Units_Sold)
 
 Insight: Future demand expected to rise gradually in festive seasons.
 
-You can view the interactive Power Bi Dashboard here - https://shorturl.at/GYPuV
+8. Screenshot/Demo
+   Show what the dashboard looks like - https://github.com/Garvit-Singh07/Sales-Trend-Analysis/blob/main/Screenshot%202025-09-04%20221212.png
+
+9. You can view the interactive Power Bi Dashboard here - https://shorturl.at/GYPuV
